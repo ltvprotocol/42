@@ -145,6 +145,12 @@ This script will generate the voucher signature and automatically send the mint 
 Contracts deployed and verified on Sepolia for testing.  
 Use Sepolia metadata CID for token URIs and content range (`1..128`).  
 
+## Security Audit
+
+The 42 NFT collection has undergone a comprehensive security audit by **Nick Bailo** to ensure the safety and reliability of the smart contracts.
+
+- **[Security Audit Report](audits/nick_bailo_42_security_audit.pdf)** - In-depth analysis of the entire contracts.
+
 ## Links
 
 - **Website**: [LTV](https://ltv.finance)
